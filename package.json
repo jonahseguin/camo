@@ -2,6 +2,11 @@
   "name": "camo",
   "displayName": "camo",
   "description": "camo-inspired dark colour theme for vscode",
+  "repository": {
+    "type": "repository",
+    "url": "https://github.com/jonahseguin/camo"
+  },
+  "publisher": "jonahseguin",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.86.0"
