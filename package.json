@@ -1,0 +1,21 @@
+{
+  "name": "camo",
+  "displayName": "camo",
+  "description": "camo-inspired dark colour theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "lumo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lumo-color-theme.json"
+      }
+    ]
+  }
+}
